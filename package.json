@@ -1,6 +1,6 @@
 {
-  "name": "ntnu-course-report",
-  "version": "1.2.0",
+  "name": "next-js-boilerplate",
+  "version": "0.0.1",
   "scripts": {
     "dev": "nodemon",
     "build": "next build && tsc --project tsconfig.server.json",
